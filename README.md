@@ -1,0 +1,3 @@
+# Safespot Skin Cancer
+O Aplicativo Safespot Skin Cancer Trata-se de um sistema baseado em inteligência artificial e Machine Learning (Aprendizado de Máquina) que será disponibilizado para smartfones e tablets que realiza a classificação e a comparação de imagens de manchas de pele obtidas pelo usuário através da câmera com o banco de dados do sistema identificando possíveis casos de câncer de pele, tomando todos os cuidados para evitar o auto diagnóstico, sendo uma ferramenta de auxílio para alertar as pessoas a buscarem assistência médica dermatológica.
+O monitoramento de manchas pode auxiliar a identificar o câncer de pele em estágios iniciais, aumentando a efetividade do tratamento.
