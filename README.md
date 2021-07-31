@@ -9,3 +9,17 @@ Os casos suspeitos de câncer de pele são identificados pela IA conforme as car
 O banco de dados para o treinamento de máquina do aplicativo é composto por imagens com os mais comuns tipos de câncer de pele, sendo possível a ampliação deste banco para a identificação de outros problemas relacionados a manchas de pele ou pintas, como casos de doenças inflamatórias e erupções cutâneas.
 ## Tipos de manchas identificadas pelo sistema
 ### Nervos Melanocitícos
+![alt text](https://github.com/RicardoCristiano/Manchas/blob/main/Fotos/imagens%20manchas/nevos-melanociticos3.jpg)
+### Melanoma
+![alt text](https://github.com/RicardoCristiano/Manchas/blob/main/Fotos/imagens%20manchas/c0090078-atypical-mole-science-photo-library-high_pt.jpg)
+### Ceratose benigna
+![alt text](https://github.com/RicardoCristiano/Manchas/blob/main/Fotos/imagens%20manchas/617-5_default.jpg)
+### Ceratose actínia
+![alt text](https://github.com/RicardoCristiano/Manchas/blob/main/Fotos/imagens%20manchas/queratose-act%C3%ADnica-ou-queratose-solar.jpg)
+### Dermatofibroma
+![alt text](https://github.com/RicardoCristiano/Manchas/blob/main/Fotos/imagens%20manchas/dermatofibroma.jpg)
+### Lesões vasculares
+![alt text](https://github.com/RicardoCristiano/Manchas/blob/main/Fotos/imagens%20manchas/artworks-eF8l2p8fFC9ziyJY-ol9bjA-t500x500.jpg)
+### Carcinoma basocelular
+![alt text](https://github.com/RicardoCristiano/Manchas/blob/main/Fotos/imagens%20manchas/basal_cell_carcinoma_b_high_pt.jpg)
+
