@@ -47,3 +47,28 @@ O aplicativo será disponibilizado tanto para as versões do sistema operacional
 O aplicativo terá duas versões, uma destinada para o público geral com funções e interface de fácil acesso e informações de fácil entendimento para garantir a acessibilidade de todos, e a versão Pro que é destinada aos profissionais da saúde e médicos dermatologistas, fornecendo informações técnicas e o risco de câncer de pele associado a lesão específica determinando o tipo ou nível apropriado de atendimento médico e meios de acompanhamento de alterações na mancha de pele ao decorrer do tempo. 
 ## Instalação
 Ao baixar o aplicativo será necessário criar um login com e-mail e senha, logo após sendo necessário à validação do e-mail através de um link enviado pelo próprio sistema ao usuário, garantindo a segurança do aplicativo.
+![alt text]()
+### Etapas de Utilização
+Logo após a validação do e-mail já é possível utilizar o aplicativo para a análise de imagens seguindo os passos:
+
+1° - Abre-se o menu na página inicial do aplicativo para ver as opções e seleciona “Análise de Imagens”
+![alt text]()
+2°- Selecione a forma que deseja obter a imagem para análise sendo possível obter pela câmera ou na galeria de imagens do dispositivo.
+![alt text]()
+3°- O aplicativo abre a câmera do dispositivo para capturar a imagem da mancha que será analisada, depois é necessário o zoom da mancha para facilitar a análise pelo sistema.
+![alt text]()
+4°- Em poucos segundos o sistema já realiza uma predição da mancha.
+![alt text]()
+A imagem obtida com a predição pode ser salva no histórico do aplicativo para um acompanhamento nas alterações da mancha.
+![alt text]()
+Em casos de suspeita de câncer de pele é emitido uma mensagem de alerta para o usuário a buscar assistência médica com um dermatologista para investigar o caso e realizar exames específicos necessários para o diagnóstico.
+### Blog de Informações
+Dentro do aplicativo terá um blog com informações de profissionais dermatologistas e de artigos científicos sobre o câncer de pele e os cuidados necessários para prevenção o diagnóstico precoce sendo disponibilizadas de forma e linguagem acessível. Dando a total importância do uso de protetor solar e a diminuição da exposição solar nos horários de pico.
+![alt text]()
+### Dicionário de Câncer de Pele
+Também será disponibilizado um dicionário de câncer de pele com os principais tipos da doença com informações das características, causas, sintomas e prevenção.
+![alt text]()
+## Assitência Técnica
+O aplicativo sempre passara por atualizações visando a inclusão de novas funções e correções de bugs que possam ocorrer, também haverá um serviço de atendimento ao cliente (SAC) para auxiliar o usuário em possíveis dúvidas ou problemas no aplicativo.
+## Aviso
+O aplicativo Safespot Skin Cancer é uma ferramenta de auxílio a identificação de manchas e não é destinado a substituir os métodos de avaliação do nível de risco de câncer de pele, não é um diagnóstico e não é um substituto a exames e avaliação médica. 
