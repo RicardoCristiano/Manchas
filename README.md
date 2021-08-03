@@ -1,13 +1,15 @@
 # Safespot Skin Cancer
 O Aplicativo Safespot Skin Cancer Trata-se de um sistema baseado em inteligência artificial e Machine Learning (Aprendizado de Máquina) que será disponibilizado para smartfones e tablets que realiza a classificação e a comparação de imagens de manchas de pele obtidas pelo usuário através da câmera com o banco de dados do sistema identificando possíveis casos de câncer de pele, tomando todos os cuidados para evitar o auto diagnóstico, sendo uma ferramenta de auxílio para alertar as pessoas a buscarem assistência médica dermatológica.
 O monitoramento de manchas pode auxiliar a identificar o câncer de pele em estágios iniciais, aumentando a efetividade do tratamento.
+### Objetivo
+O objetivo do desenvolvimento do aplicativo é tornar a identificação de manchas e lesões de pele mais facilitado com a redução do tempo e com alta acuracidade contribuindo para os diagnósticos precoce de câncer de pele.
 ## Sistema Machine Learning
 O sistema de visão computacional inteligente é treinado para observar e identificar as características de imagens através de itens extraídos do padrão de distribuição dos píxeis desta imagem, que serão utilizadas como entradas de um sistema de aprendizagem de máquina (Machine Learning) ou Aprendizagem Ativa (Active Learning).  Esses sistemas conseguem realizar a identificação de atributos das imagens de forma autônoma com um nível aceitável de acurácia constante.
 
 Os casos suspeitos de câncer de pele são identificados pela IA conforme as características morfológicas da mancha de pele, ou seja, pelo seu formato, coloração e aspecto.
 ### Banco de Dados
 O banco de dados para o treinamento de máquina do aplicativo é composto por imagens com os mais comuns tipos de câncer de pele, sendo possível a ampliação deste banco para a identificação de outros problemas relacionados a manchas de pele ou pintas, como casos de doenças inflamatórias e erupções cutâneas.
-## Tipos de manchas e lesões identificados pelo sistema
+## Tipos de manchas e lesões identificadas pelo sistema
 #### Nervos Melanocitícos
 São pequenas manchas marrons regulares na pele, salientes ou não. São popularmente conhecidos por pintas e sinais. A maioria das pintas surge em decorrência da genética e da exposição solar e possui um formato regular.
 
@@ -94,7 +96,7 @@ A imagem obtida com a predição pode ser salva no histórico do aplicativo para
 
 Em casos de suspeita de câncer de pele é emitido uma mensagem de alerta para o usuário a buscar assistência médica com um dermatologista para investigar o caso e realizar exames específicos necessários para o diagnóstico.
 ### Blog de Informações
-Dentro do aplicativo terá um blog com informações de profissionais dermatologistas e de artigos científicos sobre o câncer de pele e os cuidados necessários para prevenção o diagnóstico precoce sendo disponibilizadas de forma e linguagem acessível. Dando a total importância do uso de protetor solar e a diminuição da exposição solar nos horários de pico.
+Dentro do aplicativo haverá um blog com informações de profissionais dermatologistas e de artigos científicos sobre o câncer de pele e os cuidados necessários para prevenção o diagnóstico precoce sendo disponibilizadas de forma e linguagem acessível. Dando a total importância do uso de protetor solar e a diminuição da exposição solar nos horários de pico.
 
 ![alt text](https://github.com/RicardoCristiano/Manchas/blob/main/Fotos%20aplicativo%202/Screenshot_20210731-171545%20red.png)
 ### Dicionário de Câncer de Pele
@@ -102,8 +104,8 @@ Também será disponibilizado um dicionário de câncer de pele com os principai
 
 ![alt text](https://github.com/RicardoCristiano/Manchas/blob/main/Fotos%20aplicativo%202/Screenshot_20210729-165604%20red.png)
 ## Assitência Técnica e Manutenção
-. O aplicativo sempre passara por atualizações visando a inclusão de novas funções e correções de bugs que possam ocorrer, também haverá um serviço de atendimento ao cliente (SAC) para auxiliar o usuário em possíveis dúvidas ou problemas no aplicativo.
+. Sempre será realizado atualizações as versões do aplicativo visando a otimização do sistema, a inclusão de novas funções e correções de bugs que possam ocorrer, também haverá um serviço de atendimento ao cliente (SAC) para auxiliar o usuário em possíveis dúvidas ou problemas no aplicativo.
 
-. Atualizações do banco de dados ocorreram de acordo com a inclusão de novas doenças para a identificação.
+. Atualizações do banco de dados serão realizados de acordo com a solitação do cliente e a inclusão de novas doenças para a identificação.
 ## Aviso
 O aplicativo Safespot Skin Cancer é uma ferramenta de auxílio a identificação de manchas e não é destinado a substituir os métodos de avaliação do nível de risco de câncer de pele, não é um diagnóstico e não é um substituto a exames e avaliação médica. 
