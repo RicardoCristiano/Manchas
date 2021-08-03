@@ -62,15 +62,15 @@ O aplicativo será disponibilizado tanto para as versões do sistema operacional
 ![alt text](https://github.com/RicardoCristiano/Manchas/blob/main/Fotos%20aplicativo%202/Icons-App-Store-Google-play-1170x723.png)
 ### Requisitos do Aplicativo
 #### Android
-.Requer Android 4.4 ou superior.
+*Requer Android 4.4 ou superior.
 #### IOS
-.Requer o iOS 10.0 ou posterior.
+*Requer o iOS 10.0 ou posterior.
 ### Versões do Aplicativo
 O aplicativo terá duas versões, uma destinada para o público geral com funções e interface de fácil acesso e informações de fácil entendimento para garantir a acessibilidade de todos, e a versão Pro que é destinada aos profissionais da saúde e médicos dermatologistas, fornecendo informações técnicas e o risco de câncer de pele associado a lesão específica determinando o tipo ou nível apropriado de atendimento médico e meios de acompanhamento de alterações na mancha de pele ao decorrer do tempo. 
 ## Instalação
 Ao baixar o aplicativo será necessário criar um login com e-mail e senha, logo após sendo necessário à validação do e-mail através de um link enviado pelo próprio sistema ao usuário, garantindo a segurança do aplicativo.
 
-![alt text](https://github.com/RicardoCristiano/Manchas/blob/main/Fotos%20aplicativo%202/Screenshot_20210729-165440%20red.png)
+![alt text](https://github.com/RicardoCristiano/Manchas/blob/main/Fotos%20aplicativo%202/Screenshot_20210729-165440%20red.png)    ![alt text](https://github.com/RicardoCristiano/Manchas/blob/main/Fotos%20aplicativo%202/Screenshot_20210729-165453%20red.png)
 ### Etapas de Utilização
 Logo após a validação do e-mail já é possível utilizar o aplicativo para a análise de imagens seguindo os passos:
 
